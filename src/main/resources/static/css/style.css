@@ -1,0 +1,31 @@
+.logo{
+    height: 50px;
+    margin-right:10px;
+    background-size: cover;
+}
+
+.containerMain{
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+
+
+/**************************************************
+FOOTER
+**************************************************/
+.footer {
+ background-color:#1d1d1d;
+ color:#fff;
+ padding-bottom:1rem;
+ position: relative;
+ bottom: 0;
+ width: 100%;
+}
+
+.copyright {
+  font-size: 100%;	
+  font-weight: 600;
+}
+
